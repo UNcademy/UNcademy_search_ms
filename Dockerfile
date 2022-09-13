@@ -1,7 +1,7 @@
 FROM node:16
 
 # Create app directory
-WORKDIR /ms_buscador
+WORKDIR /UNcademy_search_ms
 
 
 COPY package*.json ./
