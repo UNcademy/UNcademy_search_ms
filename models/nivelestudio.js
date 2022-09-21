@@ -23,7 +23,8 @@ module.exports = (sequelize, DataTypes) => {
     }, {
         sequelize,
         modelName: 'NivelEstudio',
-        Freezetablename: true
+        Freezetablename: true,
+        timestamps: false
       })
 
     return NivelEstudio

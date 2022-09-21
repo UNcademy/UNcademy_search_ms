@@ -31,7 +31,8 @@ module.exports = (sequelize, DataTypes) => {
     }, {
         sequelize,
         modelName: 'Grupo',
-        Freezetablename: true
+        Freezetablename: true,
+        timestamps: false
     })
 
     return Grupo

@@ -9,10 +9,9 @@ module.exports = (sequelize, DataTypes) => {
                   allowNull: false,
                 }
               });
-            Materia.belongsTo(models.PlanEstudio)
+            Materia.belongsToMany(models.PlanEstudio, {through: 'PlanEstudioMateria'})
         }
 
-        // static  async encontar (Id) 
     }
     Materia.init({
         nombre: {
@@ -53,7 +52,8 @@ module.exports = (sequelize, DataTypes) => {
     }, {
         sequelize,
         modelName: 'Materia',
-        Freezetablename: true
+        Freezetablename: true,
+        timestamps: false
       })
 
     return Materia

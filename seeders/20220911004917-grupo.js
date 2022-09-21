@@ -8,8 +8,8 @@ module.exports = {
       cuposDisponibles: 15,
       docenteTitular: "Sandra Liliana Rojas Martinez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 1,
     },
     {id:2,
@@ -17,8 +17,8 @@ module.exports = {
       cuposDisponibles: 10,
       docenteTitular: "Elizabeth Leon Guzman",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 1,
     },
     {id:3,
@@ -26,8 +26,8 @@ module.exports = {
       cuposDisponibles: 12,
       docenteTitular: "Andres Rene Gutierrez Tiuso",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 1,
     },
     {id:4,
@@ -35,8 +35,8 @@ module.exports = {
       cuposDisponibles: 12,
       docenteTitular: "Jorge Enrique Amaya Cala",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 2,
     },
     {id:5,
@@ -44,8 +44,8 @@ module.exports = {
       cuposDisponibles: 25,
       docenteTitular: "Oscar Agudelo Rojas",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 3,
     },
     {id:6,
@@ -53,8 +53,8 @@ module.exports = {
       cuposDisponibles: 10,
       docenteTitular: "Tito Florez Calderon",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 4,
     },
     {id:7,
@@ -62,8 +62,8 @@ module.exports = {
       cuposDisponibles: 1,
       docenteTitular: "Edgar Miguel Vargas Chaparro",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 5,
     },
     {id:8,
@@ -71,8 +71,8 @@ module.exports = {
       cuposDisponibles: 3,
       docenteTitular: "Leonardo Enrique Bermeo Clavijo",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 6,
     },
     {id:9,
@@ -80,8 +80,8 @@ module.exports = {
       cuposDisponibles: 0,
       docenteTitular: "JAN BACCA RODRIGUEZ",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 7,
     },
     {id:10,
@@ -89,8 +89,8 @@ module.exports = {
       cuposDisponibles: 4,
       docenteTitular: "Ubaldo Garcia Zaragoza",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 8,
     },
     {id:11,
@@ -98,8 +98,8 @@ module.exports = {
       cuposDisponibles: 20,
       docenteTitular: "Ricardo Emiro Ramirez Heredia",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 9,
     },
     {id:12,
@@ -107,8 +107,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Jorge Enrique Rodriguez Manrique",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 10,
     },
     {id:13,
@@ -116,8 +116,8 @@ module.exports = {
       cuposDisponibles: 25,
       docenteTitular: "Fanny Andrea Rojas Florez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 11,
     },
     {id:14,
@@ -125,8 +125,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Rene Alexander Soto Perez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 12,
     },
     {id:15,
@@ -134,8 +134,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Sandra Milena Tellez Gutierrez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 13,
     },
     {id:16,
@@ -143,8 +143,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Eliseo Gomez Moreno",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 14,
     },
     {id:17,
@@ -152,8 +152,8 @@ module.exports = {
       cuposDisponibles: 100,
       docenteTitular: "Sandra Consuelo Henao Riveros",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 15,
     },
     {id:18,
@@ -161,8 +161,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Luz Helena Aranzalez Ramirez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 16,
     },
     {id:19,
@@ -170,8 +170,8 @@ module.exports = {
       cuposDisponibles: 25,
       docenteTitular: "Norman Giovanni Apraez Ippolito",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 17,
     },
     {id:20,
@@ -179,8 +179,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Rocio Robledo Martinez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 18,
     },
     {id:21,
@@ -188,8 +188,8 @@ module.exports = {
       cuposDisponibles: 50,
       docenteTitular: "Jesus Alercio Ortega Bolanos",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 19,
     },
     {id:22,
@@ -197,8 +197,8 @@ module.exports = {
       cuposDisponibles: 35,
       docenteTitular: "Catalina Ascanio Noreña",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 20,
     },
     {id:23,
@@ -206,8 +206,8 @@ module.exports = {
       cuposDisponibles: 120,
       docenteTitular: "Jorge Eduardo Caminos Pinzon",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 21,
     },
     {id:24,
@@ -215,8 +215,8 @@ module.exports = {
       cuposDisponibles: 50,
       docenteTitular: "Rocio Robledo Martinez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 22,
     },
     {id:25,
@@ -224,8 +224,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Herney Fernando Ruiz Vallejo",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 23,
     },
     {id:26,
@@ -233,8 +233,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Fernando Pio De La Hoz Restrepo",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 24,
     },
     {id:27,
@@ -242,8 +242,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Luis Antonio Herrera Perez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 25,
     },
     {id:28,
@@ -251,8 +251,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Carmen Aleida Fernandez Moreno",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 26,
     },
     {id:29,
@@ -260,8 +260,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Carmen Aleida Fernandez Moreno",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 27,
     },
     {id:30,
@@ -269,8 +269,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Imma Quitzel Caicedo Molina",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 28,
     },
     {id:31,
@@ -278,8 +278,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Sandra Elizabeth Piñeros Ortiz",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 29,
     },
     {id:32,
@@ -287,8 +287,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Carlos Guillermo Paramo Bonilla",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 30,
     },
     {id:33,
@@ -296,8 +296,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Jose Luis Ramirez Ramirez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 31,
     },
     {id:34,
@@ -305,8 +305,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Francisco Albeiro Gomez Jaramillo",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 32,
     },
     {id:35,
@@ -314,8 +314,8 @@ module.exports = {
       cuposDisponibles: 25,
       docenteTitular: "Jhon Morales Aponte",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 33,
     },
     {id:36,
@@ -323,8 +323,8 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Pedro Hernan Zambrano Ramirez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 34,
     },
     {id:37,
@@ -332,8 +332,8 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Francisco Albeiro Gomez Jaramillo",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 35,
     },
     {id:38,
@@ -341,8 +341,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Yobani Mejia Barbosa",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 36,
     },
     {id:39,
@@ -350,8 +350,8 @@ module.exports = {
       cuposDisponibles: 50,
       docenteTitular: "Arcenio Pecha Castiblanco",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 37,
     },
     {id:40,
@@ -359,8 +359,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Juan Pablo Beltrán Almeida",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 38,
     },
     {id:41,
@@ -368,8 +368,8 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "ALEXANDER CANEVA RINCON",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 39,
     },
     {id:42,
@@ -377,8 +377,8 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Ruben Dario Guevara Gonzalez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 40,
     },
     {id:43,
@@ -386,8 +386,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Ruben Dario Guevara Gonzalez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 40,
     },
     {id:44,
@@ -395,8 +395,8 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Yenny Carolina Ramirez Suarez",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 41,
     },
     {id:45,
@@ -404,8 +404,8 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: " Edilberto Cepeda Cuervo",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 42,
     },
     {id:46,
@@ -413,8 +413,8 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Viswanathan Arunachalam",
       semestre: "2022-II",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       MateriumId: 43,
     },
   ]);

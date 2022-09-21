@@ -5,20 +5,14 @@ module.exports = {
     return queryInterface.bulkInsert('Facultads', [{
       id:1,
       nombre: "Ingeniería",
-      createdAt: new Date(),
-      updatedAt: new Date(),
       SedeId: 1
     },
     {id:2,
       nombre: "Medicina",
-      createdAt: new Date(),
-      updatedAt: new Date(),
       SedeId: 1
     },
     {id:3,
       nombre: "Ciencias",
-      createdAt: new Date(),
-      updatedAt: new Date(),
       SedeId: 1
     },
   ]);

@@ -4,11 +4,7 @@ module.exports = (sequelize, DataTypes) => {
 
     class PlanEstudio extends Model{
         static associate(models) {
-            PlanEstudio.hasMany(models.Materia, {
-                foreignKey: {
-                  allowNull: false,
-                }
-              });
+            PlanEstudio.belongsToMany(models.Materia, {through: 'PlanEstudioMateria'})
             PlanEstudio.belongsTo(models.Facultad)
             PlanEstudio.belongsTo(models.NivelEstudio)
         }
@@ -49,7 +45,8 @@ module.exports = (sequelize, DataTypes) => {
     }, {
         sequelize,
         modelName: 'PlanEstudio',
-        Freezetablename: true
+        Freezetablename: true,
+        timestamps: false
       })
 
     return PlanEstudio

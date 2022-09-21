@@ -32,19 +32,6 @@ app.use(express.urlencoded({ extended: true }))
 
 require("./routes")(app);
 
-/*app.get('/', (req, res) => res.status(200).send({
-     message: 'Bienvenido a UNcademy search',
-}));
-const port = parseInt(process.env.PORT, 10) || 8080;
-app.set('port', port);
-const server = http.createServer(app);
-server.listen(port);
-app.use(logger('dev'));
-module.exports = app;
-
-*/
-
-// set port, listen for requests
 const PORT = process.env.NODE_DOCKER_PORT || 8080;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);

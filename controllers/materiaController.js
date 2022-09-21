@@ -162,28 +162,3 @@ exports.findMateriaByKeyword= async(req, res) =>{
 };
 
 
-exports.findMateriaByPlanEstudio= async(req, res) =>{
-    const planEstudio = req.params.planEstudioId;
-    const materia = await Materia.findAll({where:{PlanEstudioId: planEstudio},
-    include: [
-        {
-            model: db.PlanEstudio,
-            required: true,
-            include: [
-                {
-                    model: db.NivelEstudio,
-                    required: true
-                },
-                {
-                    model: db.Facultad,
-                    required: true,
-                    include: {
-                        model: db.Sede,
-                        required: true
-                    }
-                },
-            ]
-        }
-    ]})
-    res.status(200).send(materia)
-};

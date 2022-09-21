@@ -9,8 +9,8 @@ module.exports = {
       salon: "SALA DE INTERNET B - 1PISO. 477-SALA B. UN VIRTUAL. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "11-13",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 1,
     },
     {id:2,
@@ -19,8 +19,8 @@ module.exports = {
       salon: "SALA DE INFORMATICA Y/O DE COMPUTO. 454-403. CIENCIA Y TECNOLOGIA. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "11-13",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 2,
     },
     {id:3,
@@ -29,8 +29,8 @@ module.exports = {
       salon: "SALA DE SISTEMAS 401-303. 401-303. INGENIERIA. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "14-16",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 3,
     },
     {id:4,
@@ -39,8 +39,8 @@ module.exports = {
       salon: "SALA DE SISTEMAS 401-303. 401-303. INGENIERIA. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "18-20",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 4,
     },
     {id:5,
@@ -49,8 +49,8 @@ module.exports = {
       salon: "SALON DE INFORMATICA 454-401. 454-401. CIENCIA Y TECNOLOGIA. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "07-09",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 5,
     },
     {id:6,
@@ -59,8 +59,8 @@ module.exports = {
       salon: "LABORATORIO DE MICROPROCESADORES. 411-103. LABORATORIOS DE INGENIERIA. LABORATORIO",
       hora: "07-09",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 6,
     },
     {id:7,
@@ -69,8 +69,8 @@ module.exports = {
       salon: "SALA DE INFORMATICA 453-203. 453-203. AULAS DE INGENIERIA. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "11-13",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 7,
     },
     {id:8,
@@ -79,8 +79,8 @@ module.exports = {
       salon: "SALON DE CLASE 453-415. 453-415. AULAS DE INGENIERIA. SALON",
       hora: "11-13",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 8,
     },
     {id:9,
@@ -89,8 +89,8 @@ module.exports = {
       salon: "LABORATORIO DE INSTRUMENTACION. 411-104-B. LABORATORIOS DE INGENIERIA. LABORATORIO",
       hora: "14-16",
       dias: "Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 8,
     },
     {id:10,
@@ -99,8 +99,8 @@ module.exports = {
       salon: "SALON DE CLASE 453-413. 453-413. AULAS DE INGENIERIA. SALON",
       hora: "11-13",
       dias: "Miércoles y Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 9,
     },
     {id:11,
@@ -109,8 +109,8 @@ module.exports = {
       salon: "AUTOMATIZACION DE MAQUINAS. 411-101. LABORATORIOS DE INGENIERIA. LABORATORIO",
       hora: "14-16",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 10,
     },
     {id:12,
@@ -119,8 +119,8 @@ module.exports = {
       salon: "No informado",
       hora: "09-11",
       dias: "Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 11,
     },
     {id:13,
@@ -129,8 +129,8 @@ module.exports = {
       salon: "AUDITORIO ABEL MORALES GILEDE 407-200 (SALA TIC). 407-200. POSGRADO EN MATERIALES Y PROCESOS DE MANUFACTURA. AUDITORIO",
       hora: "09-11",
       dias: "Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 11,
     },
     {id:14,
@@ -139,8 +139,8 @@ module.exports = {
       salon: "SALON DE CLASE 453-315. 453-315. AULAS DE INGENIERIA. SALON",
       hora: "11-13",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 12,
     },
     {id:15,
@@ -149,8 +149,8 @@ module.exports = {
       salon: "SALÓN DE CLASE 401-306. 401-306. INGENIERIA. SALON",
       hora: "16-19",
       dias: "Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 13,
     },
     {id:16,
@@ -159,8 +159,8 @@ module.exports = {
       salon: "SALON DE CLASE 453-317 (SALA TIC). 453-317. AULAS DE INGENIERIA. SALA DE AUDIOVISUALES",
       hora: "07-09",
       dias: "Miércoles y Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 14,
     },
     {id:17,
@@ -169,8 +169,8 @@ module.exports = {
       salon: "SALON DE CLASE 454-305. 454-305. CIENCIA Y TECNOLOGIA. SALON",
       hora: "14-16",
       dias: "Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 15,
     },
     {id:18,
@@ -179,8 +179,8 @@ module.exports = {
       salon: "AUDITORIO C INGENIERIA. 453-AUD C. AULAS DE INGENIERIA. AUDITORIO",
       hora: "11-13",
       dias: "Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 15,
     },
     {id:19,
@@ -189,8 +189,8 @@ module.exports = {
       salon: "SALON DE CLASE 454-204. 454-204. CIENCIA Y TECNOLOGIA. SALON",
       hora: "09-11",
       dias: "Jueves y Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 16,
     },
     {id:20,
@@ -199,8 +199,8 @@ module.exports = {
       salon: "NO NECESITA SALON. EXT-BOG. ESPACIOS EXTERNOS DE LA UNIVERSIDAD. SALON",
       hora: "14-18",
       dias: "Lunes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 17,
     },
     {id:21,
@@ -209,8 +209,8 @@ module.exports = {
       salon: "SALON. 471-112. MEDICINA. SALON",
       hora: "07-09",
       dias: "Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 18,
     },
     {id:22,
@@ -219,8 +219,8 @@ module.exports = {
       salon: "NO EXISTE. 471-151. MEDICINA. SALON",
       hora: "14-16",
       dias: "Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 19,
     },
     {id:23,
@@ -229,8 +229,8 @@ module.exports = {
       salon: "No informado",
       hora: "14-16",
       dias: "Lunes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 20,
     },
     {id:24,
@@ -239,8 +239,8 @@ module.exports = {
       salon: "AUDITORIO - NO DISPONIBLE PARA EL RESTO DE LA UNIVERSIDAD. 471-511. MEDICINA. AUDITORIO",
       hora: "16-18",
       dias: "Lunes y Martes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 21,
     },
     {id:25,
@@ -249,8 +249,8 @@ module.exports = {
       salon: "SALON DE CLASE. 471-113. MEDICINA. SALON",
       hora: "16-19",
       dias: "Lunes y Martes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 22,
     },
     {id:26,
@@ -259,8 +259,8 @@ module.exports = {
       salon: "NO NECESITA SALON. EXT-BOG. ESPACIOS EXTERNOS DE LA UNIVERSIDAD. SALON",
       hora: "19-20",
       dias: "Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 23,
     },
     {id:27,
@@ -269,8 +269,8 @@ module.exports = {
       salon: "AUDITORIO. 471-222-B. MEDICINA",
       hora: "14-16",
       dias: "Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 24,
     },
     {id:28,
@@ -279,8 +279,8 @@ module.exports = {
       salon: "AUDITORIO 122 - NO DISPONIBLE PARA EL RESTO DE LA UNIVERSIDAD. 471-122. MEDICINA. AUDITORIO",
       hora: "07-09",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 25,
     },
     {id:29,
@@ -289,8 +289,8 @@ module.exports = {
       salon: "SALON DE CLASE. 471-113. MEDICINA. SALON",
       hora: "11-13",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 26,
     },
     {id:30,
@@ -299,8 +299,8 @@ module.exports = {
       salon: "SALON DE CLASE-ESTADISTICA. 405-312. POSGRADO EN MATEMATICAS Y FISICA. SALON",
       hora: "09-11",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 27,
     },
     {id:31,
@@ -309,8 +309,8 @@ module.exports = {
       salon: "No informado",
       hora: "14-16",
       dias: "Martes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 28,
     },
     {id:32,
@@ -319,8 +319,8 @@ module.exports = {
       salon: "SALON DE CLASE. 471-508. MEDICINA. SALON",
       hora: "09-11",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 29,
     },
     {id:33,
@@ -329,8 +329,8 @@ module.exports = {
       salon: "No informado",
       hora: "14-16",
       dias: "Miércoles y Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 30,
     },
     {id:34,
@@ -339,8 +339,8 @@ module.exports = {
       salon: "NO NECESITA SALON. EXT-BOG. ESPACIOS EXTERNOS DE LA UNIVERSIDAD. SALON",
       hora: "07-09",
       dias: "Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 31,
     },
     {id:35,
@@ -349,8 +349,8 @@ module.exports = {
       salon: "AULA DE CLASE. 212-300. AULAS DE CIENCIAS HUMANAS. SALON",
       hora: "14-17",
       dias: "Lunes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 32,
     },
     {id:36,
@@ -359,8 +359,8 @@ module.exports = {
       salon: "SALON DE CLASE-MATEMATICAS. 405-310. POSGRADO EN MATEMATICAS Y FISICA. SALON",
       hora: "07-09",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 33,
     },
     {id:37,
@@ -369,8 +369,8 @@ module.exports = {
       salon: "SALON 203. 564-203. AULAS DE CIENCIAS",
       hora: "16-18",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 34,
     },
     {id:38,
@@ -379,8 +379,8 @@ module.exports = {
       salon: "SALON 103. 564-103. AULAS DE CIENCIAS",
       hora: "11-13",
       dias: "Lunes, Miércoles y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 35,
     },
     {id:39,
@@ -389,8 +389,8 @@ module.exports = {
       salon: "AUDITORIO PARA SUSTENTAR CLASES (MATEMATICAS). 405-202. POSGRADO EN MATEMATICAS Y FISICA. AUDITORIO",
       hora: "09-11",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 36,
     },
     {id:40,
@@ -399,8 +399,8 @@ module.exports = {
       salon: "SALON 203. 564-203. AULAS DE CIENCIAS",
       hora: "16-18",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 37,
     },
     {id:41,
@@ -409,8 +409,8 @@ module.exports = {
       salon: "SALON 103. 564-103. AULAS DE CIENCIAS",
       hora: "14-16",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 38,
     },
     {id:42,
@@ -419,8 +419,8 @@ module.exports = {
       salon: "AUDITORIO PARA SUSTENTAR CLASES (MATEMATICAS). 405-202. POSGRADO EN MATEMATICAS Y FISICA. AUDITORIO",
       hora: "14-16",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 39,
     },
     {id:43,
@@ -429,8 +429,8 @@ module.exports = {
       salon: "SALON 303. 564-303. AULAS DE CIENCIAS",
       hora: "09-11",
       dias: "Miércoles y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 40,
     },
     {id:44,
@@ -439,8 +439,8 @@ module.exports = {
       salon: "SALON DE CLASE - GEOCIENCIAS. 224-217. EDIFICIO MANUEL ANCIZAR. SALON",
       hora: "14-16",
       dias: "Miércoles y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 41,
     },
     {id:45,
@@ -449,8 +449,8 @@ module.exports = {
       salon: "SALON DE CLASE DEPARTAMENTO DE ESTADISTICA. 404-200B. MATEMATICAS Y FISICA. SALON",
       hora: "09-11",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 42,
     },
     {id:46,
@@ -459,8 +459,8 @@ module.exports = {
       salon: "SALON DE CLASE DEPARTAMENTO DE ESTADISTICA. 404-200B. MATEMATICAS Y FISICA. SALON",
       hora: "14-16",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 43,
     },
     {id:47,
@@ -469,8 +469,8 @@ module.exports = {
       salon: "AULA 103. 205-103. CIENCIAS HUMANAS. SALON",
       hora: "11-13",
       dias: "Martes y Jueves",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 44,
     },
     {id:48,
@@ -479,8 +479,8 @@ module.exports = {
       salon: "SALON 205. 564-205. AULAS DE CIENCIAS",
       hora: "09-11",
       dias: "Lunes y Miércoles",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 45,
     },
     {id:49,
@@ -489,8 +489,8 @@ module.exports = {
       salon: "SALON DE CLASE-ESTADISTICA. 404-206. MATEMATICAS Y FISICA. SALON",
       hora: "07-09",
       dias: "Miércoles y Viernes",
-      createdAt: new Date(),
-      updatedAt: new Date(),
+
+
       GrupoId: 46,
     },
   ]);
