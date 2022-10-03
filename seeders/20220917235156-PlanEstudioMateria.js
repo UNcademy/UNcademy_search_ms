@@ -272,6 +272,24 @@ module.exports = {
       MateriumId:43,
       PlanEstudioId: 8,
     },
+    {
+      createdAt: new Date(),
+      updatedAt: new Date(),
+      MateriumId:44,
+      PlanEstudioId: 1,
+    },
+    {
+      createdAt: new Date(),
+      updatedAt: new Date(),
+      MateriumId:44,
+      PlanEstudioId: 2,
+    },
+    {
+      createdAt: new Date(),
+      updatedAt: new Date(),
+      MateriumId:44,
+      PlanEstudioId: 3,
+    },
   ]);
   },
 

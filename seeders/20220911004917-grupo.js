@@ -323,8 +323,6 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Pedro Hernan Zambrano Ramirez",
       semestre: "2022-II",
-
-
       MateriumId: 34,
     },
     {id:37,
@@ -332,8 +330,6 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Francisco Albeiro Gomez Jaramillo",
       semestre: "2022-II",
-
-
       MateriumId: 35,
     },
     {id:38,
@@ -341,8 +337,6 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Yobani Mejia Barbosa",
       semestre: "2022-II",
-
-
       MateriumId: 36,
     },
     {id:39,
@@ -350,8 +344,6 @@ module.exports = {
       cuposDisponibles: 50,
       docenteTitular: "Arcenio Pecha Castiblanco",
       semestre: "2022-II",
-
-
       MateriumId: 37,
     },
     {id:40,
@@ -359,8 +351,6 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Juan Pablo Beltrán Almeida",
       semestre: "2022-II",
-
-
       MateriumId: 38,
     },
     {id:41,
@@ -368,8 +358,6 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "ALEXANDER CANEVA RINCON",
       semestre: "2022-II",
-
-
       MateriumId: 39,
     },
     {id:42,
@@ -377,8 +365,6 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Ruben Dario Guevara Gonzalez",
       semestre: "2022-II",
-
-
       MateriumId: 40,
     },
     {id:43,
@@ -386,8 +372,6 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: "Ruben Dario Guevara Gonzalez",
       semestre: "2022-II",
-
-
       MateriumId: 40,
     },
     {id:44,
@@ -395,8 +379,6 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Yenny Carolina Ramirez Suarez",
       semestre: "2022-II",
-
-
       MateriumId: 41,
     },
     {id:45,
@@ -404,8 +386,6 @@ module.exports = {
       cuposDisponibles: 30,
       docenteTitular: " Edilberto Cepeda Cuervo",
       semestre: "2022-II",
-
-
       MateriumId: 42,
     },
     {id:46,
@@ -413,9 +393,21 @@ module.exports = {
       cuposDisponibles: 40,
       docenteTitular: "Viswanathan Arunachalam",
       semestre: "2022-II",
-
-
       MateriumId: 43,
+    },
+    {id:47,
+      numeroGrupo: 1,
+      cuposDisponibles: 40,
+      docenteTitular: "No se quien da ingles, ¿Paula?",
+      semestre: "2022-II",
+      MateriumId: 44,
+    },
+    {id:48,
+      numeroGrupo: 2,
+      cuposDisponibles: 30,
+      docenteTitular: "No se quien da ingles, ¿Diego?",
+      semestre: "2022-II",
+      MateriumId: 44,
     },
   ]);
   },

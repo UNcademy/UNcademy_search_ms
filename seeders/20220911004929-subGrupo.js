@@ -9,8 +9,6 @@ module.exports = {
       salon: "SALA DE INTERNET B - 1PISO. 477-SALA B. UN VIRTUAL. SALA DE INFORMATICA Y/O DE COMPUTO",
       hora: "11-13",
       dias: "Lunes y Miércoles",
-
-
       GrupoId: 1,
     },
     {id:2,
@@ -459,8 +457,6 @@ module.exports = {
       salon: "SALON DE CLASE DEPARTAMENTO DE ESTADISTICA. 404-200B. MATEMATICAS Y FISICA. SALON",
       hora: "14-16",
       dias: "Martes y Jueves",
-
-
       GrupoId: 43,
     },
     {id:47,
@@ -469,8 +465,6 @@ module.exports = {
       salon: "AULA 103. 205-103. CIENCIAS HUMANAS. SALON",
       hora: "11-13",
       dias: "Martes y Jueves",
-
-
       GrupoId: 44,
     },
     {id:48,
@@ -479,8 +473,6 @@ module.exports = {
       salon: "SALON 205. 564-205. AULAS DE CIENCIAS",
       hora: "09-11",
       dias: "Lunes y Miércoles",
-
-
       GrupoId: 45,
     },
     {id:49,
@@ -489,9 +481,31 @@ module.exports = {
       salon: "SALON DE CLASE-ESTADISTICA. 404-206. MATEMATICAS Y FISICA. SALON",
       hora: "07-09",
       dias: "Miércoles y Viernes",
-
-
       GrupoId: 46,
+    },
+    {id:50,
+      identificadorSubGrupo: "1-1",
+      docenteEspecifico: "Viswanathan Arunachalam",
+      salon: "SALON DE CLASE-ESTADISTICA. 404-206. MATEMATICAS Y FISICA. SALON",
+      hora: "07-09",
+      dias: "Miércoles y Viernes",
+      GrupoId: 46,
+    },
+    {id:51,
+      identificadorSubGrupo: "1-1",
+      docenteEspecifico: "Maria Paula Calderón",
+      salon: "No informado",
+      hora: "07-09",
+      dias: "Miércoles y Viernes",
+      GrupoId: 47,
+    },
+    {id:52,
+      identificadorSubGrupo: "1-1",
+      docenteEspecifico: "Diego Sebastián Rubiano",
+      salon: "No informado",
+      hora: "09-11",
+      dias: "Miércoles y Viernes",
+      GrupoId: 48,
     },
   ]);
   },

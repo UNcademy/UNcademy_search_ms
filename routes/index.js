@@ -33,7 +33,7 @@ module.exports = (app) =>{
 
 
     //grupo
-    router.get('/groupByProfesor/:profesor', grupoController.findGroupByProfesor)
+    router.get('/groupByProfessor/:profesor', grupoController.findGroupByProfessor)
     router.get('/groupByNumer/:numero', grupoController.findGroupBynumer)
     router.get('/groupByQuota', grupoController.findGroupByQuota)
     router.put('/updateGroup/:id', grupoController.updateGroup)

@@ -15,14 +15,18 @@ exports.findGroupById= async(req, res) =>{
     res.status(200).send(grupo)
 };
 
-exports.findGroupByProfesor= async(req, res) =>{
+exports.findGroupByProfessor= async(req, res) =>{
     const profesor = req.params.profesor;
     const grupo = await Grupo.findAll({where:{docenteTitular: profesor},
         include: [
             {
                 model: db.Materia,
                 required: true,
-            }
+            },
+            {
+              model: db.subGrupo,
+              require: true
+          }
         ]})
     res.status(200).send(grupo)
 };

@@ -49,6 +49,10 @@ module.exports = (sequelize, DataTypes) => {
             type: DataTypes.STRING,
             allowNull: false,
             },
+        esNumerico: {
+            type: DataTypes.BOOLEAN,
+            allowNull: false,
+            },
     }, {
         sequelize,
         modelName: 'Materia',
